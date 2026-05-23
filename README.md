@@ -8,4 +8,4 @@ to add the games u want to ur site just paste
 </div> 
 ```
 
-and in the "ur game name" put the name of the game that is on the site
+and in the "your game name" put the name of the game that is on the site
